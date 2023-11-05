@@ -18,7 +18,6 @@ export default function App() {
     <View style={styles.container}>
       <Text style={styles.label}>Simple React Native Form</Text>
 
-
       <Text style={styles.label}>Your Name:</Text>
       <TextInput
         style={styles.input}
